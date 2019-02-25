@@ -7,8 +7,9 @@ To Try setup and email for a MusicBrainz account in EmailForHeader. Works withou
 
 Functions
 
-fnGetMusicBrainzArtistDetails
-fnGetMusicBrainzTrack   IDs are optional but give better results if you have them
+- fnGetMusicBrainzArtistDetails
+
+- fnGetMusicBrainzTrack   IDs are optional but give better results if you have them
 
 I used to get the full track details to complement an excel data set.
 
